@@ -9,11 +9,11 @@ const perguntas = [
         enunciado:"Com quem Blair Waldorf se casou na 5ª temporada?",
         alternativas: [
             {
-                texto: "Nate",
+                texto: "Chuck Bass",
                 afirmacao: "1) errou "
             },
             {
-                texto: "Louis",
+                texto: "Louis Grimaldi",
                 afirmacao: "1) acertou"
             }
         ]
@@ -61,7 +61,7 @@ const perguntas = [
         enunciado: "Quem realmente era a Garota do Blog? ",
         alternativas: [
             {
-                texto: "Nate Archibald",
+                texto: "Georgina Sparks",
                 afirmacao: "5) errou"
             },
             {
